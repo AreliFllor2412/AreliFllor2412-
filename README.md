@@ -59,13 +59,39 @@ I design and build real systems — not just interfaces.
 * Automatización
 * Diseño funcional
 
----
+## 🚀 Featured System: Pharma IA
+
+Sistema inteligente para gestión, análisis y automatización de información de medicamentos.
+
+### 🧩 Arquitectura
+- Frontend: React (UI dinámica)
+- Backend: FastAPI (procesamiento + IA)
+- API externa: NestJS (datos de medicamentos)
+- Comunicación: REST APIs (GET / POST)
+
+### ⚙️ Funcionalidades
+- 💊 Consulta y validación de medicamentos desde API  
+- 📊 Generación automática de reportes  
+- 🔔 Notificaciones automatizadas  
+- 🔄 Integración completa frontend + backend  
+
+### 🤖 IA aplicada
+- Transcripción de audio  
+- Clasificación (corto / largo plazo)  
+- Wav2Vec2 + Librosa + Python  
+
+### 🎯 Enfoque
+- Reducir tareas manuales  
+- Automatizar flujos de trabajo  
+- Convertir datos en decisiones  
+
+👉 Proyecto enfocado en resolver procesos reales mediante automatización e IA.
 
 ## 📫 Contact
 
 * ✉️ Email: (tu correo)
 * 📍 México
-
+ 
 ---
 
 ## ⚡ Statement
