@@ -85,3 +85,4 @@ I like things **clean, functional and well structured**.
 ## ⚡ Personal Statement
 
 *"I build systems that are clean, useful, and made to last."*
+<!-- update profile -->
